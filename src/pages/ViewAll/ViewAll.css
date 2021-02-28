@@ -1,0 +1,64 @@
+.head-style
+{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;    
+    font: 300 25px Roboto Slab,serif;
+    font: 300 25px Roboto Slab,serif;
+
+}
+.link-style-main
+{
+    color: #6e6e71;
+    display: block;
+    font: 300 25px/28px Roboto Slab,serif;
+    float: left;
+    clear: both;
+    margin: 20px 0 5px;
+}
+.link-style-main:hover
+{
+    color: #bf1961;  
+}
+.sub-link-style
+{
+    color: #6e6e71;
+    display: inline;
+    font: 400 13px/25px Roboto Slab,serif;
+    font-size: 15px;
+    padding: 0;
+}
+.sub-link-style:hover
+{
+    color: #bf1961;  
+}
+.link-head-style
+{
+    color: #2e2e31;
+    display: block;
+    font: 300 18px/28px Roboto Slab,serif;
+    float: left;
+    clear: both;
+    font-style: bold;
+    margin: 20px 0 5px;
+}
+.link-style
+{
+    color: #6e6e71;
+    font: 300 15px/28px Roboto Slab,serif;
+}
+.link-style1{
+    color: #444;
+    display: block;
+    font: 400 18px Roboto Slab,serif;
+    padding-bottom: 8px;
+    padding-top: 1px;
+    text-decoration: bold;
+}
+.link-style1:hover
+{
+    color: #bf1961;  
+}

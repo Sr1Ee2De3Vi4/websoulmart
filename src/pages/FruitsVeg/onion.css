@@ -1,0 +1,25 @@
+.inputstyle {
+  height: 38px;
+  width: 38px;
+  border-radius: 2px;
+  border-color: #aa9fa4;
+}
+.zheading {
+  font-size: 25px;
+  font-weight: 400;
+  color: #222;
+  font-family: Proxima Nova;
+}
+.zhead {
+  font-size: 17px;
+  cursor: pointer;
+  color: #444;
+  font-family: Proxima Nova;
+}
+.zpara {
+  font-size: 13px;
+  font-family: Proxima Nova;
+}
+.img-size {
+  height: 100px;
+}

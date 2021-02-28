@@ -1,0 +1,250 @@
+/* .slide1 {
+  margin-left: 50px;
+}
+
+.slide1 {
+  height: fit-content;
+}
+
+.label-style {
+  font-size: 10px;
+}
+.mrp-style {
+  font-size: 11px;
+  font-style: bold;
+  height: 1px;
+}
+
+.veg-size {
+  height: 15px;
+  width: 15px;
+}
+
+.personal {
+  color: #58595b;
+  display: block;
+  font: 150 "Roboto Slab", serif;
+  border-bottom: #cec9c9 solid 1px;
+  color: #a83271;
+  height: 42px;
+  margin-top: 15px;
+  font-size: 100%;
+}
+.profile {
+  color: #58595b;
+  display: block;
+  font: "Roboto Slab", serif;
+  font-size: 15px;
+  border-bottom: #cec9c9 solid 1px;
+  color: #a83271;
+  margin-top: 15px;
+}
+
+.profile:hover {
+  color: #bf1961;
+  font-size: 15px;
+}
+.head-block {
+  color: #58595b;
+  display: block;
+  font: 300 24px/24px "Roboto Slab", serif;
+  border-bottom: #cec9c9 solid 1px;
+  color: #a83271;
+  margin-top: 15px;
+}
+.select-box {
+  height: 100px;
+}
+.sub-list {
+  width: 100%;
+}
+.card-style {
+  background-color: #f1ebee;
+  height: 80px;
+}
+.flex-style:hover {
+  box-shadow: 5px 10px 18px #aeafb1;
+}
+.add-btn {
+  border-radius: 2px;
+  height: 25px;
+  background-color: #fee67c;
+  width: 70px;
+}
+
+.input-group-addon {
+  border-right: 0;
+  padding: 0 4px;
+  height: 23px;
+  width: 68px;
+  font-size: 12px;
+  border-radius: 2px;
+  color: rgb(150, 140, 140);
+  font: 12px/16px Proxima Nova;
+  border-color: #e0e0e0;
+  font-size: 16px;
+  color: #222;
+  font-family: Proxima Nova;
+  border-bottom: 2px solid #bf1961;
+  display: block;
+}
+.input-style {
+  height: 23px;
+  width: 45px;
+  border-radius: 2px;
+  border-color: #aa9fa4;
+}
+.scroll-list {
+  border: none;
+  height: 98px;
+  padding: 0;
+  margin-top: 7px;
+  margin-bottom: 15px;
+}
+.search-brand {
+  height: 25px;
+}
+.chech-text {
+  color: #67717a;
+}
+.seasonal-text {
+  font-size: small;
+  color: #67717a;
+  margin-bottom: 0;
+}
+.category-style {
+  font-size: 16px;
+  color: #222;
+  font-family: Proxima Nova;
+  border-bottom: 1px solid #dfdfdf;
+  display: block;
+  font-weight: 500;
+  margin-bottom: inherit;
+}
+
+.fruit-btn-grp {
+  background-color: white;
+  color: black;
+  border-bottom: 2px solid #bf1961;
+
+  height: 30px;
+
+  font-size: 11px;
+  font-family: Proxima Nova;
+  font-weight: 500;
+}
+.fruit-btn-grp:hover {
+  background-color: #bf1961;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+}
+.popularity {
+  border-color: #a83271;
+}
+.input-group-addon1 {
+  border-right: 0;
+  padding: 0 4px;
+  height: 23px;
+  width: 68px;
+  font-size: 12px;
+  border-radius: 2px;
+  color: rgb(150, 140, 140);
+  font: 12px/16px Proxima Nova;
+  border-color: #b9b4b4;
+}
+.basketicon {
+  background-image: url(../../assets/basketicon.png);
+  background-repeat: no-repeat;
+  background-position: -5px -5px;
+  background-position-x: -5px;
+  background-position-y: -5px;
+  width: 18px;
+  height: 15px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.asterisk-icon {
+  display: block;
+  width: 18px;
+  height: 22px;
+  float: right;
+  background-image: url(../../assets/basketicon.png);
+  background-repeat: no-repeat;
+  background-position: -24px -24px;
+}
+.bikeicon {
+  background-size: 25px;
+  background-image: url(../../assets/bike-icon.svg);
+  width: 25px;
+  height: 13px;
+}
+.nav-sub {
+  color: #666;
+  font: 14px Proxima Nova;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+.main-items a {
+  color: #666;
+  font: 14px Proxima Nova;
+  padding-left: 0;
+  cursor: pointer;
+  line-height: 21px;
+  margin-left: 10px !important;
+}
+.main-items a:hover {
+  color: #a83271;
+  text-decoration: none;
+}
+.sss {
+  border-right: 1px solid;
+  border-color: #dfdfdf;
+}
+.seasonal-text a {
+  color: #666;
+  font-family: 14px Proxima Nova;
+  padding-left: 0;
+  min-height: 21px;
+  margin-bottom: 0;
+  cursor: pointer;
+  margin-left: 10px !important;
+  text-decoration: none;
+}
+.seasonal-text a:hover {
+  color: #a83271;
+}
+.allproduct a {
+  font-size: 11px;
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+}
+.allproduct a:hover {
+  color: black;
+  font-weight: 700;
+}
+.line {
+  border-bottom: 1px solid #dfdfdf;
+}
+.col-width {
+  width: 20%;
+  padding-left: 0;
+  padding-right: 30px;
+}
+.border-right {
+  border-right: 1px solid;
+  border-color: #dfdfdf;
+  padding-right: 15px;
+}
+.border-card {
+  border-right: 1px solid;
+  border-color: #f2f2f2;
+}
+.uk-margin-right {
+  margin-right: 15px !important;
+}
+.header-labels {
+  font: 18px Proxima Nova;
+  color: #58595b;
+}
+ */

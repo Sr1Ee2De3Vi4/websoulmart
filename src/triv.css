@@ -1,0 +1,138 @@
+
+
+.title_part{
+    width:55%;
+}
+
+.payment_part{
+    width: 45%;
+}
+
+.green_section{
+    background-color: #ecf3e6;
+}
+
+
+
+
+
+@media screen and (min-width: 1230px) {
+    .page_width{
+        width: 68%
+    }
+    .img_section{
+        width: 20%;
+    }
+    .data_section{
+        width: 80%;
+    }
+    .lg{
+        display: block;
+    }
+    .sm{
+        display: none;
+    }
+  }
+  @media screen and (max-width: 1230px) {
+    .page_width{
+        width: 73%
+    }
+    .img_section{
+        width: 20%;
+    }
+    .data_section{
+        width: 80%;
+    }
+    .lg{
+        display: block;
+    }
+    .sm{
+        display: none;
+    }
+  }
+  @media screen and (max-width: 1004px) {
+    .page_width{
+        width: 85%
+    }
+    .img_section{
+        width: 25%;
+    }
+    .data_section{
+        width: 75%;
+    }
+    .lg{
+        display: block;
+    }
+    .sm{
+        display: none;
+    }
+  }
+  @media screen and (max-width: 779px) {
+    .page_width{
+        width: 90%
+    }
+    .img_section{
+        width: 25%;
+    }
+    .data_section{
+        width: 75%;
+    }
+    .lg{
+        display: block;
+    }
+    .sm{
+        display: none;
+    }
+  }
+  @media screen and (max-width: 730px) {
+    .page_width{
+        width: 98%
+    }
+    .img_section{
+        width: 30%;
+    }
+    .data_section{
+        width: 70%;
+    }
+    .lg{
+        display: block;
+    }
+    .sm{
+        display: none;
+    }
+  }
+  @media screen and (max-width: 530px) {
+    .page_width{
+        width: 100%
+    }
+    .img_section{
+        width: 35%;
+    }
+    .data_section{
+        width: 65%;
+    }
+    .lg{
+        display: none;
+    }
+    .sm{
+        display: block;
+    }
+  }
+  @media screen and (max-width: 880px) {
+    
+    .lwst_price{
+        display: block;
+    }
+    .lwst_price_main{
+        display: none;
+    }
+  }
+  @media screen and (min-width: 880px) {
+  
+    .lwst_price{
+        display: none;
+    }
+    .lwst_price_main{
+        display: block;
+    }
+  }
